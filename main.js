@@ -55,3 +55,6 @@ console.log("2. Лучший студент:", findTopStudent(grades));
 console.log("3. Список должников:", filterFailed(grades, 60));
 console.log("4. Массив с буквенными оценками:");
 console.log(addLetterGrade([...grades]));
+
+
+   
